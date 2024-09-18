@@ -1,6 +1,7 @@
 # # 🥈 Second Best Pitch Award Winner at HackMIT 2024 (sponsored by Avalanche's COD3BAS3) 🚀
 
 ## Federated Learning, Powered by MyCelium, Decentralized ML training on encrypted data 
+## Also received an Honorable Mention in Modal's I'm Not A Wrapper Challenge at HackMIT 2024
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
